@@ -9,15 +9,15 @@
 <br>
 <p align="center">
   <br>
-   👋 Hi, I’m kibuchi Joseph
+   👋 Hi, I’m <b>kibuchi Joseph</b>
    <br>
-   👀 I’m interested in ... Cybersecurity.
+   👀 I’m <b>interested</b> in ... <b>Cybersecurity.</b>
    <br>
-   🌱 I’m currently learning ... Full-stack software development at the ALXSE program.
+   🌱 I’m currently <b>learning</b> ... Full-stack software development at the <a href="https://www.alxafrica.com/">ALXSE</a> program.
    <br>
-   💞️ I’m looking to collaborate on ... Anything that helps me become better at understanding code.
+   💞️ I’m <b>looking to collaborate on</b> ... Anything that helps me become better at understanding code.
    <br>
-   📫 How to reach me ... Dm me on twitter @QUxPTA
+   📫 How to reach me ... Dm me on twitter <b>@QUxPTA</b>
 </p>
 
 <hr>
@@ -74,3 +74,4 @@
 </p>
 
 <hr>
+
