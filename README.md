@@ -9,15 +9,15 @@
 <br>
 <p align="center">
   <br>
-   👋 Hi, I’m <b>kibuchi Joseph</b>
+   👋 Hi, I’m <b style="color: #00C9CC">kibuchi Joseph</b>
    <br>
-   👀 I’m <b>interested</b> in ... <b>Cybersecurity.</b>
+   👀 I’m <b style="color: #00C9CC">interested</b> in ... <b style="color: #00C9CC">Cybersecurity.</b>
    <br>
-   🌱 I’m currently <b>learning</b> ... Full-stack software development at the <a href="https://www.alxafrica.com/">ALXSE</a> program.
+   🌱 I’m currently <b style="color: #00C9CC">learning</b> ... Full-stack software development at the <a href="https://www.alxafrica.com/">ALXSE</a> program.
    <br>
-   💞️ I’m <b>looking to collaborate on</b> ... Anything that helps me become better at understanding code.
+   💞️ I’m <b style="color: #00C9CC">looking to collaborate on</b> ... Anything that helps me become better at understanding code.
    <br>
-   📫 How to reach me ... Dm me on twitter <b>@QUxPTA</b>
+   📫 How to reach me ... Dm me on twitter <b style="color: #00C9CC">@QUxPTA</b>
 </p>
 
 <hr>
