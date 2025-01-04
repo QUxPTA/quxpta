@@ -13,7 +13,7 @@
    <br>
    👀 I’m <b style="color: #00C9CC">interested</b> in ... <b style="color: #00C9CC">Cybersecurity.</b>
    <br>
-   🌱 I’m currently <b style="color: #00C9CC">learning</b> ... Full-stack software development at the <a href="https://www.alxafrica.com/">ALXSE</a> program.
+   🌱 I recently completed <b style="color: #00C9CC">learning</b> ... Full-stack software development at the <a href="https://www.alxafrica.com/">ALXSE</a> program.
    <br>
    💞️ I’m <b style="color: #00C9CC">looking to collaborate on</b> ... Anything that helps me become better at understanding code.
    <br>
