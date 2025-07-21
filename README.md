@@ -11,9 +11,9 @@
   <br>
    👋 Hi, I’m <b style="color: #00C9CC">kibuchi Joseph</b>
    <br>
-   👀 I’m <b style="color: #00C9CC">interested</b> in ... <b style="color: #00C9CC">Cybersecurity.</b>
+   👀 I’m <b style="color: #00C9CC">interested</b> in ... <b style="color: #00C9CC">Reading, Writing, and Understanding Code better</b>
    <br>
-   🌱 I recently completed <b style="color: #00C9CC">learning</b> ... Full-stack software development at the <a href="https://www.alxafrica.com/">ALXSE</a> program.
+   🌱 I am an <a href="https://www.alxafrica.com/">ALXSE</a> graduate, currently upskilling further at <a href="https://www.theodinproject.com">The Odin Project</a> (Self-Paced)
    <br>
    💞️ I’m <b style="color: #00C9CC">looking to collaborate on</b> ... Anything that helps me become better at understanding code.
    <br>
@@ -31,14 +31,14 @@
   <code><img title="Typescript" height="25" src="images/ts.svg"></code>
   <code><img title="HTML5" height="25" src="images/html.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="NodeJS" height="25" src="images/node-js.svg"></code> 
+  <code><img title="NodeJS" height="25" src="images/node-js.svg"></code>
   <code><img title="ExpressJS" height="25" src="images/express.svg"></code>
   <code><img title="NextJS" height="25" src="images/next.svg"></code>
   <code><img title="React" height="25" src="images/react.svg"></code>
-  <code><img title="ReactNative" height="25" src="images/ReactNative.svg"></code> 
-  <code><img title="Figma" height="25" src="images/figma.svg"></code> 
+  <code><img title="ReactNative" height="25" src="images/ReactNative.svg"></code>
+  <code><img title="Figma" height="25" src="images/figma.svg"></code>
   <code><img title="FramerMotion" height="25" src="images/framer.svg"></code>
-  <code><img title="Material-UI" height="25" src="images/mui.svg"></code> 
+  <code><img title="Material-UI" height="25" src="images/mui.svg"></code>
   <code><img title="Tailwind" height="25" src="images/tailwind.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postger.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
@@ -74,4 +74,3 @@
 </p>
 
 <hr>
-
