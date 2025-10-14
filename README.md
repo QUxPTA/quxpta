@@ -21,56 +21,101 @@
 </p>
 
 <hr>
-<h2 align="center">🔨 Languages and Tools Interacted With so Far</h2>
+<h2 align="center">🔨 Languages and Tools</h2>
 <br>
+<h3 align="center">Programming Languages</h2>
+
 <p align="center">
-  <code><img title="C" height="25" src="images/c-original.svg"></code>
-  <code><img title="Python" height="25" src="images/python.svg"></code>
-  <code><img title="Django" height="25" src="images/django.svg"></code>
-  <code><img title="Javascript" height="25" src="images/js.svg"></code>
-  <code><img title="Typescript" height="25" src="images/ts.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="NodeJS" height="25" src="images/node-js.svg"></code>
-  <code><img title="ExpressJS" height="25" src="images/express.svg"></code>
-  <code><img title="NextJS" height="25" src="images/next.svg"></code>
-  <code><img title="React" height="25" src="images/react.svg"></code>
-  <code><img title="ReactNative" height="25" src="images/ReactNative.svg"></code>
-  <code><img title="Figma" height="25" src="images/figma.svg"></code>
-  <code><img title="FramerMotion" height="25" src="images/framer.svg"></code>
-  <code><img title="Material-UI" height="25" src="images/mui.svg"></code>
-  <code><img title="Tailwind" height="25" src="images/tailwind.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postger.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Puppet" height="25" src="images/puppet.svg"></code>
-  <code><img title="Docker" height="25" src="images/docker.svg"></code>
-  <code><img title="Git" height="25" src="images/git.svg"></code>
-  <code><img title="GitHub" height="25" src="images/gitwhite.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.svg"></code>
-  <code><img title="Linux" height="25" src="images/linux.svg"></code>
+  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=ruby" title="Ruby" alt="Ruby"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3"/>
 </p>
+
+<h3 align="center">Frameworks & Libraries</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rails" title="Ruby on Rails" alt="Ruby on Rails"/>
+  <img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS"/>
+</p>
+
+<h3 align="center">Databases & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub"/>
+</p>
+
+<h3 align="center">Design & Development Environment</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=neovim" title="Neovim" alt="Neovim"/>
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux"/>
+</p>
+
 <hr>
 
-<h2 align="center">📊 Github Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=quxpta&theme=react&border=61dafb&hide_border=true" alt="quxpta" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=quxpta&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quxpta&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-</p>
+
+<!-- <div align="center">
+
+<a href="https://github.com/quxpta">
+  <img src="https://streak-stats.demolab.com/?user=quxpta&theme=transparent&hide_border=true&stroke=00C9CC&ring=00C9CC&fire=00C9CC&currStreakLabel=00C9CC&sideNums=00C9CC&background=00000000" alt="GitHub Streak Stats"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/quxpta">
+  <img src="https://github-readme-stats.vercel.app/api?username=quxpta&show_icons=true&theme=transparent&hide_border=true&title_color=00C9CC&icon_color=00C9CC&text_color_dark=666666&text_color_light=333333&bg_color=00000000" alt="GitHub Stats"/>
+</a>
+
+</div> -->
+
+<div align="center">
+
+### 📈 Contribution Activity
+
+<a href="https://github.com/quxpta">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quxpta&theme=github&hide_border=true&color=00C9CC&line=00C9CC&point=666666&area_color=00C9CC&area=true&bg_color=00000000" alt="GitHub Activity Graph"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### 💻 Most Used Languages Across All Repositories
+
+<a href="https://github.com/quxpta">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quxpta&layout=donut&theme=transparent&hide_border=true&title_color=00C9CC&text_color_dark=666666&text_color_light=333333&bg_color=00000000&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=quxpta" alt="Most Used Languages"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Achievements
+
+<a href="https://github.com/quxpta">
+  <img src="https://github-profile-trophy.vercel.app/?username=quxpta&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
+</a>
+
+</div>
 
 <hr>
